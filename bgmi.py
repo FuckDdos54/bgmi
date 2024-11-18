@@ -12,8 +12,8 @@ from keepalive import keep_alive
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from telebot.apihelper import ApiTelegramException
 
-ADMIN_IDS = [6862918172]
-BOT_TOKEN = "7343295464:AAEM7vk5K3cNXAywZC_Q11wmMzMu4gk09PU"
+ADMIN_IDS = [1463557115]
+BOT_TOKEN = "7537750387:AAEzj5i6Q8yJzJcbmDZQfCTxy3_xUnsFMko"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 redeemed_keys = set()
